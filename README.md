@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-02-08 at 9 31 23 AM](https://github.com/user-attachments/assets/a0ab0313-ce00-4263-9898-a452bed173e2)# team-aura
+#team-aura
 
 Title: Skill-Barter Network 
 Problem Statement:
@@ -168,5 +168,29 @@ The platform connects learners and mentors, helping students grow together throu
 
 
 #OUTPUTS
+
+![WhatsApp Image 2026-02-08 at 9 31 23 AM](https://github.com/user-attachments/assets/a0ab0313-ce00-4263-9898-a452bed173e2)
+
+
+![WhatsApp Image 2026-02-08 at 9 32 52 AM](https://github.com/user-attachments/assets/efc7045f-f13f-4c24-ad5e-3d834b760e3c)
+
+![WhatsApp Image 2026-02-08 at 9 33 39 AM](https://github.com/user-attachments/assets/26f3c9fa-5bd4-40d7-ae34-529d0f673a7f)
+
+![WhatsApp Image 2026-02-08 at 9 34 18 AM](https://github.com/user-attachments/assets/131599ff-9d54-48f1-9fed-50cc9b4b197c)
+
+![WhatsApp Image 2026-02-08 at 9 34 18 AM](https://github.com/user-attachments/assets/2909d065-2106-42ca-9a3c-4d6e520ca50a)
+
+![WhatsApp Image 2026-02-08 at 9 35 46 AM](https://github.com/user-attachments/assets/eaf150a1-bf0c-4c0b-8e72-6dfb0a145abf)
+
+![WhatsApp Image 2026-02-08 at 9 38 43 AM](https://github.com/user-attachments/assets/7245773a-e02e-4f2d-8c9f-3460610b3496)
+
+![WhatsApp Image 2026-02-08 at 9 39 32 AM](https://github.com/user-attachments/assets/bb907a05-adc2-4bf3-b89f-c950e2677dde)
+
+![WhatsApp Image 2026-02-08 at 9 41 13 AM](https://github.com/user-attachments/assets/1c968662-7feb-482c-adc0-b20a02ef5040)
+
+![WhatsApp Image 2026-02-08 at 9 43 06 AM](https://github.com/user-attachments/assets/a43b2f04-6591-4b98-ad2a-81c4111a8556)
+
+
+
 
 
