@@ -1,4 +1,4 @@
-# team-aura
+![WhatsApp Image 2026-02-08 at 9 31 23 AM](https://github.com/user-attachments/assets/a0ab0313-ce00-4263-9898-a452bed173e2)# team-aura
 
 Title: Skill-Barter Network 
 Problem Statement:
@@ -169,4 +169,4 @@ The platform connects learners and mentors, helping students grow together throu
 
 #OUTPUTS
 
-![WhatsApp Image 2026-02-08 at 9 32 52 AM](https://github.com/user-attachments/assets/e31ab132-5c3e-4b1b-8942-f6c2e5967b79)
+
